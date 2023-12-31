@@ -1,0 +1,20 @@
+body{
+    background-color: #24353F;
+}
+.mahdy{
+    background-color: #24353F;
+}
+.Welcome{
+    color: #17A2B8;
+}
+.Login{
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.Smart{
+    color: #17A2B8;
+}
+
+a{
+    text-decoration: none;
+}
